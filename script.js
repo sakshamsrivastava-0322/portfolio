@@ -183,7 +183,7 @@ document.addEventListener('DOMContentLoaded', () => {
   // 4. HERO TYPING ANIMATION
   // ==========================================
   const typedTextSpan = document.querySelector('.typed-text');
-  const textArray = ["First-Year CS Student", "Creative Developer", "Problem Solver", "Tech Enthusiast"];
+  const textArray = ["First-Year CS Student", "Reva University Student", "C/Python/Java Programmer", "Problem Solver"];
   const typingSpeed = 100;
   const erasingSpeed = 60;
   const newTextDelay = 2000; // Delay between current and next text
