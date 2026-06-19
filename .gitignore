@@ -10,3 +10,12 @@ Thumbs.db
 *.njsproj
 *.sln
 *.swp
+
+# Dependencies
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*

@@ -1,0 +1,19 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio of Saksham Srivastava - Computer Science Student",
+  "type": "module",
+  "scripts": {
+    "build": "npm install"
+  },
+  "keywords": [
+    "portfolio",
+    "cs",
+    "student"
+  ],
+  "author": "Saksham Srivastava",
+  "license": "MIT",
+  "dependencies": {
+    "@vercel/speed-insights": "^1.0.15"
+  }
+}
